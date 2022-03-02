@@ -1,2 +1,4 @@
-package at.ac.fhcampuswien;public class App {
+package at.ac.fhcampuswien;
+
+public class App {
 }
